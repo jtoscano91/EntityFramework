@@ -1,0 +1,15 @@
+C:\Users\jtoscano\Source\Repos\CourseManager\CourseManager\bin\Debug\CourseManager.exe.config
+C:\Users\jtoscano\Source\Repos\CourseManager\CourseManager\bin\Debug\CourseManager.exe
+C:\Users\jtoscano\Source\Repos\CourseManager\CourseManager\bin\Debug\CourseManager.pdb
+C:\Users\jtoscano\Source\Repos\CourseManager\CourseManager\bin\Debug\EntityFramework.dll
+C:\Users\jtoscano\Source\Repos\CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jtoscano\Source\Repos\CourseManager\CourseManager\bin\Debug\EntityFramework.xml
+C:\Users\jtoscano\Source\Repos\CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jtoscano\Source\Repos\CourseManager\CourseManager\obj\Debug\CourseManager.csprojAssemblyReference.cache
+C:\Users\jtoscano\Source\Repos\CourseManager\CourseManager\obj\Debug\CourseManager.CourseViewer.resources
+C:\Users\jtoscano\Source\Repos\CourseManager\CourseManager\obj\Debug\CourseManager.Properties.Resources.resources
+C:\Users\jtoscano\Source\Repos\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.GenerateResource.cache
+C:\Users\jtoscano\Source\Repos\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.CoreCompileInputs.cache
+C:\Users\jtoscano\Source\Repos\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.CopyComplete
+C:\Users\jtoscano\Source\Repos\CourseManager\CourseManager\obj\Debug\CourseManager.exe
+C:\Users\jtoscano\Source\Repos\CourseManager\CourseManager\obj\Debug\CourseManager.pdb
